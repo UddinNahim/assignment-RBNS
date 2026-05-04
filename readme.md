@@ -1,5 +1,22 @@
 # Run Instructions
 
+## Tech Stack
+
+- **Backend:** FastAPI (Python)
+- **ORM / Database:** Piccolo ORM with PostgreSQL
+- **Validation / Schemas:** Pydantic v2
+- **Frontend:** React (Vite)
+- **Tooling:** Node.js, npm, Vite, uv (piccolo runner)
+- **Python version:** 3.14+
+
+## Demo
+
+Watch a short demonstration video here:
+
+[Demo video on Google Drive](https://drive.google.com/file/d/16n-5pBWKqqlmgMSKAwrR-Xr9mIqL0Ihf/view)
+
+Note: Ensure the Drive file's sharing settings allow anyone with the link to view.
+
 ## Database Migrations
 
 Run these commands from the `backend` folder when you need to create or apply Piccolo migrations:
