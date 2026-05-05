@@ -15,7 +15,15 @@ Watch a short demonstration video here:
 
 [Demo video on Google Drive](https://drive.google.com/file/d/16n-5pBWKqqlmgMSKAwrR-Xr9mIqL0Ihf/view)
 
-Note: Ensure the Drive file's sharing settings allow anyone with the link to view.
+Clone the repository (or navigate to this directory).
+
+Start the container:
+Run the following command in your terminal:
+
+```bash
+docker-compose up -d
+```
+The -d flag runs the container in detached mode (in the background).
 
 ## Database Migrations
 
